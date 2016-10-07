@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/AFNetworking'
   s.license      = 'MIT'
   s.author       = { "Mattt Thompson" => "m@mattt.me" }
-  s.source       = { :git => "https://github.com/AFNetworking/AFgzipRequestSerializer.git",
+  s.source       = { :git => "https://github.com/devKrishnan/AFgzipRequestSerializer",
                      :tag => “0.0.3” }
 
   s.source_files = 'AFgzipRequestSerializer'
